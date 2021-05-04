@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/functions";
+
+$primary: #27ae60;
+$danger: #f53b57;
+$info: #1e90ff;
+$dark: #2c2c54;
+$min-contrast-ratio: 2;
+
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/bootstrap";
